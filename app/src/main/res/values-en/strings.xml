@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">The bombing application !</string>
+    <string name="start_btn">Start</string>
+    <string name="Liste_btn">Users list</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageUploaded">Image uploaded</string>
+    <string name="filter_dialog_title">Filter</string>
+    <string name="action_filtrer">Filtrer</string>
+    <string name="bomb_btn">Bomb it</string>
+    <string name="renvoyer_btn">Send again</string>
+    <string name="cible">Target</string>
+    <string name="bombedText">Bombed by </string>
+    <string name="target">target</string>
+    <string name="source">source</string>
+    <string name="resendBomb">Resend bomb</string>
+    <string name="nouserresponse">No response</string>
+    <string name="userbusy">User busy</string>
+    <string name="cantbombme">Can't bomb me</string>
+    <string name="bombexplosed"></string>
+    <string name="win">Win !</string>
+    <string name="lost">Lost !</string>
+</resources>

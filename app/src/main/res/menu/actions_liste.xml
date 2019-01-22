@@ -1,0 +1,9 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_filtrer"
+        android:title="@string/action_filtrer"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>
